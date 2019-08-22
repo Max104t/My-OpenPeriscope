@@ -19,7 +19,7 @@
 // @require     https://github.com/iamcal/js-emoji/raw/master/lib/emoji.js
 // @require     https://github.com/zenorocha/clipboard.js/raw/v2.0.0/dist/clipboard.min.js
 // @require     https://github.com/le717/jquery-spoiler/raw/master/jquery.spoiler.min.js
-// @require     https://raw.githubusercontent.com/Max104t/My-OpenPeriscope/support-groups/Groups.js
+// @require     https://github.com/gitnew2018/My-OpenPeriscope/raw/master/Groups.js
 // @require     https://github.com/gitnew2018/My-OpenPeriscope/raw/master/ApiTest.js
 // @require     https://github.com/gitnew2018/My-OpenPeriscope/raw/master/PeriscopeApiWrapper.js
 // @require     https://unpkg.com/split.js/dist/split.min.js
